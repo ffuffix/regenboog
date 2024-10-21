@@ -60,7 +60,7 @@ button.bg-primary:focus {
 }
 
 .ftco-navbar-light {
-  background: transparent !important;
+  background:#fafafa !important;
   z-index: 3;
   padding: 0;
 }
